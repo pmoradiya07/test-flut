@@ -1,0 +1,36 @@
+{
+    "asanas" : [
+        {
+            "title" : "Bhujangasana",
+            "image" : "assets/asanas/Bhujangasan.png"
+        },
+        {
+            "title" : "Tadasan",
+            "image" : "assets/asanas/Tadasan.png"
+        },
+        {
+            "title" : "Utkatasan",
+            "image" : "assets/asanas/Utkatasan.png"
+        },
+        {
+            "title" : "Vrikshasan",
+            "image" : "assets/asanas/Vrikshasan.png"
+        },
+        {
+            "title" : "Garudasan",
+            "image" : "assets/asanas/Garudasan.png"
+        },
+        {
+            "title" : "Power Yoga",
+            "image" : "assets/asanas/Power Yoga.png"
+        },
+        {
+            "title" : "Hatha Yoga",
+            "image" : "assets/asanas/Hatha Yoga.png"
+        },
+        {
+            "title" : "Kundalini Yoga",
+            "image" : "assets/asanas/Kundalini Yoga.png"
+        }
+    ]
+}

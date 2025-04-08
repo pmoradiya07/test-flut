@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254015805360",
+    "project_id": "yogaguru-31277",
+    "storage_bucket": "yogaguru-31277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254015805360:android:1481a5eeb1c81d376e2875",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIB3m02GcltcpCMaGbbeChsNRw0hkEx8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
